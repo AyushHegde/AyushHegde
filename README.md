@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushHegde
-- 👀 I’m interested in Data Science
-- 🌱 I have obtained my Computer Science Engineering Degree and a professional 6 month certification in Data Science
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I have obtained my Computer Science Engineering Degree as well as a Professional 6 month Certification in Data Science
 - 💞️ I’m looking to contribute on real time projects for companies
 - 📫 Reach me by my mail
 
