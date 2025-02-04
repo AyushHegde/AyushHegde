@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushHegde
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on Software projects
+- 👀 I’m interested in Data Science
+- 🌱 I have obtained my Computer Science Engineering Degree and a professional 6 month certification in Data Science
+- 💞️ I’m looking to contribute on real time projects for companies
 - 📫 Reach me by my mail
 
 <!---
